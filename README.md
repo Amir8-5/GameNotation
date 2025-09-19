@@ -1,11 +1,10 @@
-# 🎮 Game Launcher Pro
+# 🎮 Game Notation
 
-A sleek desktop application to launch your games with integrated notes and tracking.
+An application to create note taking capabilities to play games. This tool is for people ( like me ) who forgot what they did last when playing and it becomes daunting to pick the game back up again. Using this tool, you automatically interact with the notepad after you finish playing which allows you to note down what you did and what you plan to do.
 
 ## 📋 Features
 - Launch games with pre-game notes
 - Automatic notes reopening after gameplay
-- Modern, user-friendly interface
 - Game management with delete functionality
 
 ## 🖥️ System Requirements

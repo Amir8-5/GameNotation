@@ -1,5 +1,7 @@
 # 🎮 Game Notation
+![main screen](screenshots/main_screen.png)
 
+![add game page](screenshots/add_game.png)
 An application to create note taking capabilities to play games. This tool is for people ( like me ) who forgot what they did last when playing and it becomes daunting to pick the game back up again. Using this tool, you automatically interact with the notepad after you finish playing which allows you to note down what you did and what you plan to do.
 
 ## 📋 Features

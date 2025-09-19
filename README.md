@@ -31,4 +31,4 @@ cd game-launcher
 pip install -r requirements.txt
 
 # Run the application
-python game_launcher.py
+python Game.py
